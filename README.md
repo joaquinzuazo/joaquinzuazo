@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi! 👋
 
-<!--
-**joaquinzuazo/joaquinzuazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills: :loudspeaker:
 
-Here are some ideas to get you started:
+| HTML.           | Python.                         |
+| --------------- | ------------------------------- |
+| **CSS.**        | **Creación y consumo de APIs.** |
+| **JavaScript.** | **Git.**                        |
+| **Node Js.**    | **MetodologíasÁgiles -Scrum**   |
+| **React.**      | **Patrón de arquitectura MVC.** |
+| **Express.**    | **Postman**                     |
+| **PHP.**        | **Sequelize**                   |
+| **MySQL.**      | **VSCode**                      |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+
+### Contact: :mailbox:
+
+#### [Linkedin](https://www.linkedin.com/in/jzuazociolfi/) :bookmark_tabs:
+
+#### jzuazociolfi@gmail.com :e-mail:
