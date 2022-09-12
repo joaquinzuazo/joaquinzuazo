@@ -9,8 +9,7 @@
 | **Node Js.**        | **MetodologíasÁgiles -Scrum**   |
 | **React.**          | **Patrón de arquitectura MVC.** |
 | **Express.**        | **Postman**                     |
-| **Django.**         | **Sequelize**                   |
-| **MySQL.**          | **VSCode**                      |
+| **MySQL.**          | **Sequelize**                   |
 
 ------
 
