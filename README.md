@@ -2,15 +2,15 @@
 
 ### Skills: :loudspeaker:
 
-| HTML.           | Python.                         |
-| --------------- | ------------------------------- |
-| **CSS.**        | **Creación y consumo de APIs.** |
-| **JavaScript.** | **Git.**                        |
-| **Node Js.**    | **MetodologíasÁgiles -Scrum**   |
-| **React.**      | **Patrón de arquitectura MVC.** |
-| **Express.**    | **Postman**                     |
-| **PHP.**        | **Sequelize**                   |
-| **MySQL.**      | **VSCode**                      |
+| ****Python. **      | **JavaScript. **                |
+| ------------------- | ------------------------------- |
+| **Django.**         | **Creación y consumo de APIs.** |
+| **Rest framework.** | **Git.**                        |
+| **Node Js.**        | **MetodologíasÁgiles -Scrum**   |
+| **React.**          | **Patrón de arquitectura MVC.** |
+| **Express.**        | **Postman**                     |
+| **Django.**         | **Sequelize**                   |
+| **MySQL.**          | **VSCode**                      |
 
 ------
 
