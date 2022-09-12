@@ -2,7 +2,7 @@
 
 ### Skills: :loudspeaker:
 
-| **Python. **      | **JavaScript. **                |
+| **Python.**         | **JavaScript.**                 |
 | ------------------- | ------------------------------- |
 | **Django.**         | **Creación y consumo de APIs.** |
 | **Rest framework.** | **Git.**                        |
